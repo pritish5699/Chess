@@ -1,0 +1,10 @@
+- Open index.html.
+- Click on Start Button.
+- On top of the chess board, you can see who's turn.
+- You can reset the chess board.
+- Click on any of your chess piece, it will show you valid moves.
+- If you move piece to valid move, it will update chess board.
+- If you do move piece to invalid move, piece will come back automcatically to original position.
+- I did not provide random move functionality. Instead of that, it shows you all posible move when you click on any piece.
+- It's not full chess game, since it is not checking the castle is under attack or not.
+- Play it and Enjoy !!!
